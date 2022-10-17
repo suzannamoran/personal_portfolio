@@ -1,4 +1,4 @@
-This portfolio was created using a (https://html5up.net/theme)[theme], HTML, CSS, and JavaScript.
+This portfolio was created using a [theme](https://html5up.net/theme/), HTML, CSS, and JavaScript.
 
 
 
